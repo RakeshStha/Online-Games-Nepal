@@ -1,0 +1,20 @@
+.download-container {
+    background-image: url('../img/download_background1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.download-game h1 {
+    padding-top: 50px;
+    padding-left: 40px;
+    font-size:  40px;
+    color: #00DFFD;
+}
+
+.download-software{
+    background-image: url('../img/download_background2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
