@@ -1,0 +1,31 @@
+.about-container {
+    background-image: url(../img/about_background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.about-paragraph {
+    margin: 0px;
+    padding: 40px;
+}
+
+.paragraph1, .paragraph2 {
+    margin: 10px;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+
+.about-paragraph h1 {
+    padding-bottom: 20px;
+    color: #00DFFD;
+    font-size: 35px;
+    text-shadow: 0px 1px 1px #00DFFD;
+}
+
+.about-paragraph p {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+    text-shadow: 0px 1px 1px rgb(252, 248, 248);
+}
