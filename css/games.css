@@ -80,6 +80,14 @@
       padding-bottom: 50px;
   }
 
+  .seemore-btn-game-normal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+
+}
+
   .btn-game{
     background-color: #2475f8;
     border: none;

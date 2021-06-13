@@ -1,11 +1,10 @@
-body {
-  overflow-x: hidden;
-}
+
 .contact-container {
+  margin: 0px;
   background-image: url(../img/contact_background1.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  
 }
 .contact-us-top {
   color: #00dffd;
@@ -25,6 +24,7 @@ body {
   padding-bottom: 10rem;
 }
 .contact-us-bottom {
+  margin: 0px;
   padding: 5rem 0;
   background-image: url(../img/contact_background2.png);
   background-position: center;
@@ -65,9 +65,7 @@ form input:focus {
 }
 /* Responsive */
 @media only screen and (max-width: 600px) {
-  body {
-    font-size: 10px;
-  }
+ 
   /* /Top */
   .contact-us-top h1 {
     font-size: 2rem;
