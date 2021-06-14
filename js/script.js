@@ -60,5 +60,5 @@ function photoshop2020(){
 
 function Submit(){
   alert("OOPS! Site under maintenance!")
-  window.open("/contact.html","_self")
+  // window.open("/Error/demo/","_self")
 }
