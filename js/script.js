@@ -57,3 +57,8 @@ function photoshop2020(){
   alert("Are you sure want to download?")
   window.open("")
 }
+
+function Submit(){
+  alert("OOPS! Site under maintenance!")
+  window.open("/contact.html","_self")
+}
