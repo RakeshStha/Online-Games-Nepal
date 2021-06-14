@@ -1,0 +1,59 @@
+
+
+.game-play-color{
+    background-image: url('../img/cartoon-game-background-260nw-303257369.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+
+.game-show {
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.game-play{
+    border: 2px solid black;
+}
+
+.game-description{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.games-contents {
+    margin: 50px;
+    padding: 50px;
+    flex: 1;
+    background: rgba( 255, 255, 255, 0.15 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 0.0px );
+-webkit-backdrop-filter: blur( 0.0px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+}
+
+.game-description h1 {
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 0px 1px 1px rgb(252, 248, 248);
+}
+.game-description p {
+    color: white;
+    font-size: 22px;
+    text-shadow: 0px 1px 1px rgb(252, 248, 248);
+}
+
+.game-card img {
+    height: 6rem;
+    width: 6rem;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
