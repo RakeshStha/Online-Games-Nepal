@@ -1,0 +1,41 @@
+.terms-cond{
+    background-color: rgba(176, 194, 199, 0.993);
+    width: 100%;
+    height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.terms-condition {
+    background-color: rgb(90, 199, 199);
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.terms-card {
+    background-color: darkgrey;
+    width: 70%;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+.terms-btns{
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    width: 100%;
+    height: 3rem;
+    margin-bottom: 10px;
+}
+
+.para{
+    background-color: antiquewhite;
+    margin-top: 0px;
+    font-size: 20px;
+    margin: 10px;
+    padding: 40px;
+    border-radius: 20px;
+    display: none;
+}
