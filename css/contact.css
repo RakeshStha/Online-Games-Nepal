@@ -35,11 +35,9 @@
 }
 .form-container {
   width: 60vw;
-}
-/* .form-container {
   position: relative;
-  left: 10rem;
-} */
+  left: 20%;
+}
 
 form input {
   width: 100%;
@@ -77,10 +75,12 @@ form input:focus {
     padding: 0 2rem;
     padding-bottom: 4rem;
   }
+  /* Bottom */
   .touch {
     font-size: 2rem;
   }
   .form-container {
     width: 80vw;
+    left: 0;
   }
 }
