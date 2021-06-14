@@ -1,10 +1,9 @@
-
 .contact-container {
   margin: 0px;
   background-image: url(../img/contact_background1.png);
   background-position: center;
+  background-size: cover;
   background-repeat: no-repeat;
-  
 }
 .contact-us-top {
   color: #00dffd;
@@ -65,8 +64,10 @@ form input:focus {
 }
 /* Responsive */
 @media only screen and (max-width: 600px) {
- 
   /* /Top */
+  .contact-container {
+    background-size: auto;
+  }
   .contact-us-top h1 {
     font-size: 2rem;
     padding: 4rem 3rem;
